@@ -2,6 +2,12 @@
 
 A skeleton app for creating new micro-services.
 
+## status
+
+## status
+
+*do not use this skeleton app for production work*. It should be considered proof-of-concept only.
+
 ## getting started
 
 1. download the [archive of the skeleton app](https://www.github.com/duncan-bayne/skeleton/archive/master.zip)
