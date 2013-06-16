@@ -4,7 +4,7 @@ A skeleton app for creating new micro-services.
 
 ## status
 
-*do not use this skeleton app for production work*. It should be considered proof-of-concept only.
+*Do not use this skeleton app for production work*. It should be considered proof-of-concept only.
 
 ## getting started
 
